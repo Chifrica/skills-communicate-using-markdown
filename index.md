@@ -1,3 +1,3 @@
-# This is first class on Mark-down.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- var myVar = "Hello world";
+- [ ] Have you used GitHub before now?
+- [x] Yes
+- [ ] That's very nice of you!
